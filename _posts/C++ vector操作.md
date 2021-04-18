@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      C++ vector操作
+subtitle:   C++ vector操作
+date:       2020-01-09
+author:     HLKT
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - C++
+---
+
+
+
 # C++ vector操作
 
 
