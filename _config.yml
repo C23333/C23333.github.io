@@ -4,8 +4,8 @@ SEOTitle: HLKT 的小站
 header-img: img/post-bg-desk.jpg
 email: liuyongkai@hotmail.com
 description: "Nothing is true,every is permitted."
-keyword: "Kali Blog, Kali的小站"
-url: "https://C23333.github.io, HLKT, 博客, lyk"          # your host, for absolute URL
+keyword: "HLKT Blog, HLKT的小站"
+url: "https://C23333.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kalicn/kalicn.github.io.git" # you code repository
 
