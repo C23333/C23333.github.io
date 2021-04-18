@@ -14,7 +14,7 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Nothing is true,every is permitted。"
 sidebar-avatar: /img/yeswecode.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+ 
 
 # SNS settings
 RSS: true
