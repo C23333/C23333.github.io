@@ -1,7 +1,7 @@
 # Site settings
 title: HLKT's Blog
 SEOTitle: HLKT 的小站
-header-img: img/post-bg-desk.jpg
+header-img: img/Uno_Xray.png
 email: liuyongkai@hotmail.com
 description: " Nothing is true,every is permitted. "
 keyword: "HLKT Blog, HLKT的小站"
@@ -12,13 +12,14 @@ github_repo: "https://github.com/kalicn/kalicn.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Nothing is true,every is permitted。"
-sidebar-avatar: /img/yeswecode.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/F_2014_361_DARKWING.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
  
 
 # SNS settings
 RSS: true
 github_username:    C23333
+zhihu_username:     liu-yong-kai-16-56
 
 
 
