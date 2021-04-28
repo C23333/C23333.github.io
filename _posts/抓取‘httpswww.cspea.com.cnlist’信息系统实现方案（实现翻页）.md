@@ -4,7 +4,7 @@ title:      C++ vector操作
 subtitle:   C++ vector操作
 date:       2020-01-09
 author:     HLKT
-header-img: img/42.jpg
+header-img: https://lalalademaxiya01.oss-cn-beijing.aliyuncs.com/img/image-20210427164526187.png
 catalog: true
 tags:
     - Java
